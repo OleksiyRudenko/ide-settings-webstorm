@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/OleksiyRudenko/link-manager-for-google-drive-gas.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/OleksiyRudenko/gas-goa-boilerplate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\prg" />
