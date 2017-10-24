@@ -30,6 +30,10 @@
           <option name="url" value="https://OleksiyRudenko@bitbucket.org/alekseyf1/glask-gallery-custom.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/OleksiyRudenko/dev-env.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\prg" />
