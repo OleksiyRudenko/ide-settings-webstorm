@@ -46,8 +46,12 @@
           <option name="url" value="https://github.com/udacity/asteroids.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/OleksiyRudenko/frontend-nanodegree-arcade-game.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\prg\-external" />
+    <option name="cloneParentDir" value="D:\prg\-edu" />
   </component>
 </application>
